@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from './components/Navbar';
 import Cards from './components/Cards';
-import Card from './components/Card';
 import Filter from './components/Filter';
 import Spinner from './components/Spinner'
 import { apiUrl,filterData } from "./data";
